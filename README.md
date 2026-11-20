@@ -1,0 +1,2 @@
+# center.uz
+hello world
